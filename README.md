@@ -1,6 +1,6 @@
 # Webapp
 
-### Visual Pollution has emerged as a new variant to the family of existing pollution, Causes Direct and indirect effects on the environment which made us take up this challenge.
+ Visual Pollution has emerged as a new variant to the family of existing pollution, Causes Direct and indirect effects on the environment which made us take up this challenge.
 
 The main goal of the project is to detect and classify Visual pollution-causing elements (e.g. Billboards, Graffiti, potholes) using Intel AI.
 
@@ -13,7 +13,7 @@ It also captures the geo location of the uploaded image and provides the severit
 This Dashboard provides the government bodies a clear mapped view of the potholes to be repaired. Officials can easily locate the potholes using the maps.
 
 
-Impact of oneAPI Analytics toolkit
+### Impact of oneAPI Analytics toolkit
 
 Due to the unique quality of one API with regards to its functionality on cross-platform, it is easily implementable on all devices and is easily scalable.
  
@@ -21,16 +21,15 @@ With the help of optimized features of AI analytics toolkit, the detection and c
 
 We utilized a yolo-v5 model, with the data pre-processed from roboflow. The intel AI analytics toolkit served as a great tool to train our model. The pytorch extension for intel helped us to enhance the training and performance.
 
-Implementation:
+### Implementation:
 
-As an initial step, we have to upload the image to the dashboard and select our location from the map.
-Next we send this image to the ML model to predict the score and category of the potholes.
-These images and the corresponding category tagging is displayed in the dashboard and also on the map, then the municipal people can login and use these data to plan and repair.
-Predicting the severity of the pothole by tagging it to the category type- severe, major and minor in the dashboard.
+As an initial step, we have to upload the image to the dashboard and select our location from the map. Next we send this image to the ML model to predict the score and category of the potholes.These images and the corresponding category tagging is displayed in the dashboard and also on the map, then the municipal people can login and use these data to plan and repair.Predicting the severity of the pothole by tagging it to the category type- severe, major and minor in the dashboard.
 
-Quick Summary: To build and deploy a convolution neural network using the intel oneAPI toolkit to detect, classify and assess the visual pollutants (pothole case) in the given image in real time.
+### Quick Summary: 
 
-steps to run the code:
+To build and deploy a convolution neural network using the intel oneAPI toolkit to detect, classify and assess the visual pollutants (pothole case) in the given image in real time.
+
+### steps to run the code:
 
 1. Install Flask: Once you have Python installed, you need to install Flask.
 pip install Flask
@@ -39,4 +38,4 @@ Pip install -r requirements.txt
 3. Run the application
 Python run.py
 
-Demo Link : https://visipol.pythonanywhere.com/
+### Demo Link : https://visipol.pythonanywhere.com/
