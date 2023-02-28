@@ -32,10 +32,10 @@ To build and deploy a convolution neural network using the intel oneAPI toolkit 
 ### steps to run the code:
 
 1. Install Flask: Once you have Python installed, you need to install Flask.
-pip install Flask
-2. Install the required modules as defined in requirements.txt
-Pip install -r requirements.txt
-3. Run the application
-Python run.py
+2. pip install Flask
+3. Install the required modules as defined in requirements.txt
+4. Pip install -r requirements.txt
+5. Run the application
+6. Python run.py
 
 ### Demo Link : https://visipol.pythonanywhere.com/
