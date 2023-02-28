@@ -1,12 +1,17 @@
 # Webapp
 
-## Visual Pollution has emerged as a new variant to the family of existing pollution, Causes Direct and indirect effects on the environment which made us take up this challenge.
+### Visual Pollution has emerged as a new variant to the family of existing pollution, Causes Direct and indirect effects on the environment which made us take up this challenge.
 
-The main goal of the project is to detect and classify Visual pollution-causing elements (e.g. Billboards, Graffiti, potholes) using Intel AI
+The main goal of the project is to detect and classify Visual pollution-causing elements (e.g. Billboards, Graffiti, potholes) using Intel AI.
+
+As an initial step, we have considered the case of pothole pollutant detection and mapping in the real time for easy identification and repair.
 
 VisiPol Web application detects potholes using Intel OneAPI, Which is a system that utilizes the power of deep learning algorithms and computer vision to analyze images and identify potholes in roads. The web application provides users with an easy-to-use interface to upload images of roads, and then performs real-time analysis of the images using the Intel OneAPI deep learning framework. The system is capable of detecting and localizing potholes within the uploaded images.
 
-As an initial step, we have considered the case of pothole pollutant detection and mapping in the real time for easy identification and repair.
+It also captures the geo location of the uploaded image and provides the severity of the pothole into three categories such as Severe, Major, Minor. 
+
+This Dashboard provides the government bodies a clear mapped view of the potholes to be repaired. Officials can easily locate the potholes using the maps.
+
 
 Impact of oneAPI Analytics toolkit
 
