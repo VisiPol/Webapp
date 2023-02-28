@@ -1,6 +1,6 @@
 # Webapp
 
-Visual Pollution has emerged as a new variant to the family of existing pollution, Causes Direct and indirect effects on the environment which made us take up this challenge.
+## Visual Pollution has emerged as a new variant to the family of existing pollution, Causes Direct and indirect effects on the environment which made us take up this challenge.
 
 The main goal of the project is to detect and classify Visual pollution-causing elements (e.g. Billboards, Graffiti, potholes) using Intel AI
 
