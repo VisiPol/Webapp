@@ -12,6 +12,10 @@ It also captures the geo location of the uploaded image and provides the severit
 
 This Dashboard provides the government bodies a clear mapped view of the potholes to be repaired. Officials can easily locate the potholes using the maps.
 
+### Proposed Architecture
+
+![Logo](./images/camera-connect.gif)
+
 
 ### Impact of oneAPI Analytics toolkit
 
