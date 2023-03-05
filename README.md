@@ -14,7 +14,7 @@ This Dashboard provides the government bodies a clear mapped view of the pothole
 
 ### Proposed Architecture
 
-![Logo](./images/camera-connect.gif)
+![Logo](./images/arch.png)
 
 
 ### Impact of oneAPI Analytics toolkit
