@@ -25,9 +25,16 @@ With the help of optimized features of AI analytics toolkit, the detection and c
 
 We utilized a yolo-v5 model, with the data pre-processed from roboflow. The intel AI analytics toolkit served as a great tool to train our model. The pytorch extension for intel helped us to enhance the training and performance.
 
+
 ### Implementation:
 
 As an initial step, we have to upload the image to the dashboard and select our location from the map. Next we send this image to the ML model to predict the score and category of the potholes.These images and the corresponding category tagging is displayed in the dashboard and also on the map, then the municipal people can login and use these data to plan and repair.Predicting the severity of the pothole by tagging it to the category type- severe, major and minor in the dashboard.
+
+## Intel's ONEAPI ToolKit: 
+ - Intel Dev Cloud
+ - Intel AI Analytics ToolKit
+   - Intel Extension for PyTorch
+ - Intel Distribution of OPENVINO Toolkit:
 
 ### Quick Summary: 
 
