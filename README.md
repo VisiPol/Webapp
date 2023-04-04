@@ -1,4 +1,4 @@
-# Webapp
+# VisiPol - Tackling visual poullution with Intel's One API
 
  Visual Pollution has emerged as a new variant to the family of existing pollution, Causes Direct and indirect effects on the environment which made us take up this challenge.
 
