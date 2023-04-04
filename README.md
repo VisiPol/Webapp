@@ -34,7 +34,7 @@ As an initial step, we have to upload the image to the dashboard and select our 
  - Intel Dev Cloud
  - Intel AI Analytics ToolKit
    - Intel Extension for PyTorch
- - Intel Distribution of OPENVINO Toolkit:
+ - Intel Distribution of OPENVINO Toolkit
 
 ### Quick Summary: 
 
@@ -49,4 +49,4 @@ To build and deploy a convolution neural network using the intel oneAPI toolkit 
 5. Run the application
 6. Python run.py
 
-### Demo Link : https://visipol.pythonanywhere.com/
+### Live Demo Link : https://visipol.pythonanywhere.com/
